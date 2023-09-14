@@ -1,5 +1,5 @@
 # IT
-# Project Name
+# Home Page
 
 This branch is used to consturct the Home page of IT project, team 26. 
 
